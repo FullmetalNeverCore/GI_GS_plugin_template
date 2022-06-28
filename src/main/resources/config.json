@@ -1,0 +1,4 @@
+{
+  "sendJoinMessage": true,
+  "joinMessage": "HelloWorld GrassCutter plugin!"
+}
